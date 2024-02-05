@@ -64,14 +64,20 @@
   ],
   "dependencies": {
     "axios": "^1.2.2",
+    "charenc": "^0.0.2",
+    "crypt": "^0.0.2",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.9",
+    "get-intrinsic": "^1.2.2",
+    "graceful-fs": "^4.2.11",
     "md5": "^2.3.0",
     "music-metadata": "^7.5.3",
     "pac-proxy-agent": "^5.0.0",
     "qrcode": "^1.4.4",
     "safe-decode-uri-component": "^1.2.1",
+    "socks-proxy-agent": "^8.0.2",
     "tunnel": "^0.0.6",
+    "vm2": "^3.9.19",
     "yargs": "^17.1.1"
   },
   "devDependencies": {

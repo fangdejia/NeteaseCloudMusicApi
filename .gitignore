@@ -6,3 +6,5 @@ node_modules
 .history
 examples/moddef.json
 bin
+__pycache__
+download
